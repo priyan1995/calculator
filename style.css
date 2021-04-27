@@ -1,0 +1,8 @@
+.calc-body {
+    background: linear-gradient( 360deg, #202427, #2d3235);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-end;
+}

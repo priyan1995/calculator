@@ -11,10 +11,27 @@
     border: none;
     border-radius: 93px;
     margin: 5px;
-    width: 58px;
-    height: 54px;
+    width: 60px;
+    height: 53px;
     background: #3a3c3f;
-    color: white;
-    box-shadow: 2px 3px 4px -1px #0000008a, -2px -1px 4px -2px #ffffff21, inset 6px 3px 3px -4px #ffffff05;
+    color: #ffffffbd;
+    box-shadow: 2px 3px 4px -1px #0000008a, -3px -4px 3px -2px #ffffff21, inset 2px 6px 3px -7px #0000001c, inset -4px -3px 10px -4px #0000004f;
     font-size: 19px;
+    /* border-right: 1px solid #1f1f1f; */
+    /* border-bottom: 1px solid #1f1f1f; */
+    font-weight: 300;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.calculator-wrapper{
+    padding: 15px 15px;
+    background: linear-gradient(to top, #1f2326, #2e3233, #4e5253);
+    border-radius: 20px;
+}
+
+.display{
+    height: 200px;
 }

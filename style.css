@@ -6,3 +6,15 @@
     align-items: center;
     align-content: flex-end;
 }
+
+.round{
+    border: none;
+    border-radius: 93px;
+    margin: 5px;
+    width: 58px;
+    height: 54px;
+    background: #3a3c3f;
+    color: white;
+    box-shadow: 2px 3px 4px -1px #0000008a, -2px -1px 4px -2px #ffffff21, inset 6px 3px 3px -4px #ffffff05;
+    font-size: 19px;
+}
